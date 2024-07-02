@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm run start:frontend` to run react app in a browser
 
 Runs the app in the development mode.\
-Open http://localhost:3000 to view it in your browser.
+Open `http://localhost:3000` to view it in your browser.
 
 ### `npm run start:backend` to run server on a port 8000
 Runs the server that listens to all incoming requests and responds back to the client.
